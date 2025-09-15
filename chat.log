@@ -29,3 +29,18 @@ Client2 has disconnected.
 [2025-09-15T15:34:52.979Z] Client2 disconnected
 [2025-09-15T15:34:58.823Z] Client1 disconnected
 [2025-09-15T15:34:58.822Z] Client1 error: read ECONNRESET
+[2025-09-15T16:35:26.356Z] Guest1 connected
+[2025-09-15T16:35:36.110Z] Guest2 connected
+[2025-09-15T16:35:49.149Z] Guest2: hello
+[2025-09-15T16:36:01.660Z] Guest2: '/username matthew'
+[2025-09-15T16:36:04.159Z] Guest2: hello
+[2025-09-15T16:36:05.801Z] Guest2: clear
+[2025-09-15T16:36:12.165Z] Guest2: hello
+[2025-09-15T16:36:13.635Z] Guest2: clear
+[2025-09-15T16:36:55.132Z] Guest2: clear
+[2025-09-15T16:36:59.984Z] Guest1: hello
+[2025-09-15T16:37:01.308Z] Guest1: clear
+[2025-09-15T16:37:36.803Z] Guest2 error: read ECONNRESET
+[2025-09-15T16:37:36.803Z] Matthew disconnected
+[2025-09-15T16:37:38.179Z] Guest1 error: read ECONNRESET
+[2025-09-15T16:37:38.179Z] Guest1 disconnected

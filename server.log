@@ -1,0 +1,3 @@
+[2025-09-15T16:36:09.700Z] Guest2 /username OK -> Matthew
+[2025-09-15T16:36:40.842Z] Matthew /w ERROR: No such user: client1
+[2025-09-15T16:36:49.812Z] Matthew /w OK -> Guest1: Hi
