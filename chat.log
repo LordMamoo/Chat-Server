@@ -1,0 +1,31 @@
+Client1 connected
+Client1: hello
+Client1: how are you doing?
+Client2 connected
+Client2: I am doing welll
+Client2: how are you?
+Client1: hello
+Client2: hello
+Client1 connected
+Client1 has disconnected.
+Client2 connected
+Client2: hello
+Client2 has disconnected.
+Client1 connected
+Client1: hello message
+Client1: Hello World
+Client1 has disconnected.
+Client2 connected
+Client2: Hello World
+Client2 has disconnected.
+[2025-09-15T15:31:04.227Z] Client1 connected
+[2025-09-15T15:31:25.388Z] Client1: hello
+[2025-09-15T15:31:28.273Z] Client1: welcome
+[2025-09-15T15:34:21.078Z] Client1 connected
+[2025-09-15T15:34:40.924Z] Client2 connected
+[2025-09-15T15:34:43.581Z] Client2: hello
+[2025-09-15T15:34:51.480Z] Client2: goodbye
+[2025-09-15T15:34:52.978Z] Client2 error: read ECONNRESET
+[2025-09-15T15:34:52.979Z] Client2 disconnected
+[2025-09-15T15:34:58.823Z] Client1 disconnected
+[2025-09-15T15:34:58.822Z] Client1 error: read ECONNRESET
